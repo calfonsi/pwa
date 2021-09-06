@@ -1,0 +1,25 @@
+{
+	"name": "Jap PWA example",
+	"short_name": "Jap PWA example",
+	"start_url": ".",
+	"background_color": "#6dcdb1",
+	"theme_color": "#009578",
+	"display": "standalone",
+	"icons": [
+	{
+		"src": "images/logo144a.webp",
+		"sizes": "144x144",
+		"type": "image/webp"
+	},
+	{
+		"src": "images/logo144.png",
+		"sizes": "144x144",
+		"type": "image/png"
+	},
+	{
+		"src": "images/logo512.png",
+		"sizes": "512x512",
+		"type": "image/png"		
+	}
+	]
+}

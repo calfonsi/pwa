@@ -1,0 +1,18 @@
+body {
+  font-family: "Lato", sans-serif;
+  background: #eeeeee;
+}
+
+#myCanvas{
+	border:1px solid #d3d3d3;
+	min-height:300px;
+	min-height:200px;
+	/*opacity: 150%;*/
+}
+.img-lotto{
+	/*background-image: url('../images/lotto.jpg');
+	opacity: 50%;*/
+	
+}
+
+
